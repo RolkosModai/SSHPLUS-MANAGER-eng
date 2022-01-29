@@ -26,13 +26,13 @@ SCRIPT SSHPLUS MANAGER is a script with a set of features and tools suitable for
 
 ## Installation
 
-apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/RolkosModai/SSHPLUS-MANAGER-eng/main/Plus; chmod 777 Plus; ./Plus
+apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/RolkosModai/SSHPLUS-MANAGER-eng/blob/main/Plus; chmod 777 Plus; ./Plus
 
 -------------------------------------------------------------------------------
 
 # TCP-Tweaker-1.0 (TCP-SPEED)
 
-![logo](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/blob/master/Imagenes/TCP_Tweaker_TCP_SPEED.jpg)
+![logo](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/blob/main/Imagenes/TCP_Tweaker_TCP_SPEED.jpg)
 
 ## Installation
 
